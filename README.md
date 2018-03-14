@@ -1,0 +1,2 @@
+# EGCTI
+bibliometric indicators charts
